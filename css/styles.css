@@ -50,11 +50,11 @@ table {
 /* end of css reset */
 
 body {
-	background-color: yellow;
+	background-color: darkblue;
 }
 
 p {
-	color: darkblue;
+	color: yellow;
 }
 
 #title {
